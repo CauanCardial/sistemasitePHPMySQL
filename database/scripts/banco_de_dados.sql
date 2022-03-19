@@ -1,0 +1,1 @@
+create database sistemasitePHPMySQL DEFAULT CHARSET 'utf8';
